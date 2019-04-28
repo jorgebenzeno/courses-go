@@ -1,5 +1,4 @@
 package main
-import "strc"
 
 import "fmt"
 
